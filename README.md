@@ -42,3 +42,4 @@ vagrant up --provider vmware_fusion
 ```
 [ref](https://sloopstash.com/blog/how-to-build-vm-on-apple-m1-m2-chip-mac-with-vmware-fusion-and-vagrant.html)
 [vagrant-utils](https://developer.hashicorp.com/vagrant/install/vmware)
+[ref-beauwilliams/Vagrant-M1-Install.bash](https://gist.github.com/beauwilliams/69eabc42e540a309f53d55c4b8e6ffe3)
